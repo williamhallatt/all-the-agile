@@ -1,5 +1,7 @@
 # all-the-agile
-Links to blog posts and news articles on Leadership and Agile concepts that have added to my learning.  Pull requests are always welcome!
+Links to blog posts and news articles on Leadership and Agile concepts that have added to my learning. My intent is not to index the entire internet, but these are worth reading in my opinion...and possibly reading again.
+
+Pull requests are always welcome!
 
 ## Leadership
 
@@ -14,7 +16,9 @@ Links to blog posts and news articles on Leadership and Agile concepts that have
 ## Stages of Learning and Development
 
 [Shu Ha Ri](http://www.solutionsiq.com/shuhari-agile-adoption-pattern/)
+
 [Five Stage Model of Human Skills Acquisition - Stuart and Hubert Dreyfus](www.bumc.bu.edu/facdev-medicine/files/2012/03/Dreyfus-skill-level.pdf)
+
 [Stages of Group Development - Bruce Tuckman](https://en.wikipedia.org/wiki/Tuckman's_stages_of_group_development)
 
 ## Conflict Resolution
