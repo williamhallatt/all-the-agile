@@ -21,6 +21,14 @@ Pull requests are always welcome!
 
 [Stages of Group Development - Bruce Tuckman](https://en.wikipedia.org/wiki/Tuckman's_stages_of_group_development)
 
+## Motivation
+
+[What Makes Us Feel Good About Our Work - Dan Ariely](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work)
+
+[The Puzzle of Motivation - Dan Pink](http://www.ted.com/talks/dan_pink_on_motivation)
+
+[What Motivates Us At Work - Summary of Experiments and Results by Jessica Gross](http://ideas.ted.com/what-motivates-us-at-work-7-fascinating-studies-that-give-insights/)
+
 ## Conflict Resolution
 
 [Navigating the Five Levels of Conflict - Lyssa Adkins](https://dzone.com/articles/agile-managing-conflict)
