@@ -1,11 +1,13 @@
 # all-the-agile
 Links to blog posts and news articles on Leadership and Agile concepts that have added to my learning. My intent is not to index the entire internet, but these are worth reading in my opinion...and possibly reading again.
 
-Pull requests are always welcome!
+If you know of any REALLY good stuff (preferably from original authors/originators), send a pull request (create new categories as needed)!
 
 ## Leadership
 
-[Adaptive Leadership - Jim Highsmith](https://assets.thoughtworks.com/articles/adaptive-leadership-accelerating-enterprise-agility-jim-highsmith-thoughtworks.pdf)
+[Thinking About Leadership - A Brief History of Leadership Thought](http://www.apsc.gov.au/publications-and-media/current-publications/thinking-about-leadership-a-brief-history-of-leadership-thought)
+
+[Adaptive Leadership Accelerating Enterprise Agility - Jim Highsmith](https://assets.thoughtworks.com/articles/adaptive-leadership-accelerating-enterprise-agility-jim-highsmith-thoughtworks.pdf)
 
 [Situational Leadership Theory - Paul Hersey and Ken Blanchard](https://en.wikipedia.org/wiki/Situational_leadership_theory)
 
@@ -46,3 +48,5 @@ Pull requests are always welcome!
 [Agile Contracts Primer - Tom Arbogast, Craig Larman and Bas Vodde](http://www.agilecontracts.org/agile_contracts_primer.pdf)
 
 [10 Contracts for your next Agile Software Project](http://agilesoftwaredevelopment.com/tags-860/scrum/10-contracts-for-your-next-agile-software-project/#FP)
+
+[IT Contracts - part 2](https://www.future-processing.pl/blog/agile-contracts-part-2/)
